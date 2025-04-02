@@ -1,4 +1,4 @@
-name = "testcompose"
+name = "acw"
 main = "_worker.js"
 
 
